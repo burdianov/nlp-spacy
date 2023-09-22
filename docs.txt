@@ -1,1 +1,10 @@
 https://www.youtube.com/watch?v=dIUTsFT2MeQ
+
+http://spacy.pythonhumanities.com/intro.html
+
+https://github.com/wjbmattingly/freecodecamp_spacy
+
+
+$ pip install -U pip setuptools wheel
+$ pip install -U spacy
+$ python -m spacy download en_core_web_sm
